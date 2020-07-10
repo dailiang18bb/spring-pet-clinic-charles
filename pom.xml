@@ -14,7 +14,7 @@
     </parent>
     <groupId>charles.spring</groupId>
     <artifactId>spring-pet-clinic-charles</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>spring-pet-clinic-charles</name>
     <description>Charles spring pet clinic project</description>
 
@@ -46,7 +46,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:dailiang18bb/spring-pet-clinic-charles.git</developerConnection>
-        <tag>spring-pet-clinic-charles-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
